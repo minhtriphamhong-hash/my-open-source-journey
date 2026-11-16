@@ -8,7 +8,7 @@ Welcome to my personal GitHub repository!
 - Discover useful AI tools.
 - Explore Photoshop and image editing projects.
 - Learn work automation tools.
-- Manage my own projects.
+- Manage my own projects. 
 
 ## Learning Progress
 
